@@ -1,0 +1,16 @@
+Django==4.0
+
+pandas==1.4.3
+Scrapy==2.6.1
+itemadapter==0.6.0
+
+termcolor==1.1.0
+itemloaders==1.0.4
+beautifulsoup4==4.9.3
+lxml==4.9.0
+playwright==1.24.0
+
+validators==0.20.0
+selenium==4.3.0
+jupyter==1.0.0
+django-extensions==3.2.1
